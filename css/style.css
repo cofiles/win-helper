@@ -1,0 +1,47 @@
+.body {
+    background-color: #313338;
+    color: azure;
+}
+
+.link-win, .link-win:visited {
+    color: rgb(238, 243, 193);
+}
+
+.link-act, .link-act:visited {
+    color: rgb(238, 243, 193);
+}
+
+.link-boot, .link-boot:visited {
+    color: rgb(238, 243, 193);
+}
+
+.link-tweaker, .link-tweaker:visited {
+    color: rgb(238, 243, 193);
+}
+
+.div-links {
+    font-size: 20px;
+}
+
+.description {
+    font-size: 25px;
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+}
+
+ol li a {
+  display: block;
+  background-color: cadetblue;
+  color: #dbdee1;
+  text-decoration: none;
+  padding: 12px 18px;
+  margin-bottom: 10px;
+  border-radius: 0px;
+  border-left: 4px solid rgb(238, 243, 193);
+  transition: background-color 0.2s, transform 0.2s;
+  max-width: 350px;
+}
+

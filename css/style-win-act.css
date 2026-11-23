@@ -1,0 +1,35 @@
+.body-win-act {
+    background-color: #313338;
+    color: azure;
+    font-size: 20px;
+}
+
+.download-win-act-img {
+    width: 400px;        
+    max-width: 100%;     
+    height: auto;        
+    padding: 15px;
+}
+
+.main-div {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;            
+}
+
+.back-link, .back-link:visited {
+  color: azure;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+.win-act-info {
+    font-size: 30px;
+    background-color: cadetblue;
+    max-width: 350px;
+    color: rgb(238, 243, 193);
+}
